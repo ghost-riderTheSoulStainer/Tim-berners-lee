@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     margin: 0;
     padding-top: 800px;
 }
@@ -58,6 +59,15 @@ h2 {
     background-color: #000;
     width: 70px;
     margin: 8px auto;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+  color:aqua;  
 }
 
 
